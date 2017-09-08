@@ -1,0 +1,21 @@
+h1 {
+	text-align: center;
+	font-weight: bold;
+}
+
+.item {
+	display: none;
+}
+
+.carousel-control {
+	display: none;
+}
+
+.active {
+	display: block;
+}
+
+.hide-bullets li {
+	list-style-type: none;
+	margin: 20px 0 0 -10px; 
+}
